@@ -41,3 +41,5 @@
   .phone.phone-real{width:290px;border-radius:40px;padding:7px}
   .real-screen{border-radius:33px}
 }
+
+footer nav a{color:#596159;text-decoration:none;font-size:11px;font-weight:700}footer nav a:hover{color:var(--g)}
